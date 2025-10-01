@@ -1,1 +1,35 @@
-ooo jine mera dil luteya oo ho
+[33mcommit 50b43d10362a80eb3fea362f171b4a61fe8687e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Divyansh Sharma <divyanshjmi@gmail.com>
+Date:   Wed Oct 1 15:13:39 2025 +0530
+
+    kash doubt clear ho jaye
+
+[33mcommit 861c78b393aa3a83cc071ebbe84463274ad1310c[m
+Author: Divyansh Sharma <divyanshjmi@gmail.com>
+Date:   Wed Oct 1 15:09:57 2025 +0530
+
+    abtochlpd
+
+[33mcommit 36025f6323839ed9bde94ce7c02ffea4f046ae33[m
+Author: Divyansh Sharma <divyanshjmi@gmail.com>
+Date:   Wed Oct 1 15:04:17 2025 +0530
+
+    nya chapter bna diya
+
+[33mcommit c8c7149b11a84705703e9618ff703219f979d930[m
+Author: Divyansh Sharma <divyanshjmi@gmail.com>
+Date:   Wed Oct 1 13:13:34 2025 +0530
+
+    please ho ja
+
+[33mcommit 2f9c0b5f172ad1037e56d5f017b2cd6672143726[m
+Author: Divyansh Sharma <divyanshjmi@gmail.com>
+Date:   Wed Oct 1 12:49:10 2025 +0530
+
+    done
+
+[33mcommit adbf2b4b5655f171be381c6c2cab7116d9584882[m
+Author: divyansh3214 <divyanshjmi@gmail.com>
+Date:   Wed Oct 1 12:50:14 2025 +0530
+
+    Initial commit
